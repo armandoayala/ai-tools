@@ -1,0 +1,5 @@
+{
+  "name": "quality-review-plugin",
+  "description": "Code review based on rules such as SOLID principles",
+  "version": "1.0.0"
+}

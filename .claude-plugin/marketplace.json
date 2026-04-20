@@ -1,0 +1,15 @@
+{
+  "name": "armlabs-ai-tools",
+  "owner": {
+    "name": "Armando Ayala",
+    "email": "armlabstech@gmail.com",
+    "url": "https://github.com/armandoayala"
+  },
+  "plugins": [
+    {
+      "name": "quality-review-plugin",
+      "source": "./plugins/quality-review-plugin",
+      "description": "Code review based on rules such as SOLID principles"
+    }
+  ]
+}
